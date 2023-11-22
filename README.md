@@ -1,6 +1,6 @@
 # Expense-Manager
 A simple expense tracker app to keep track of your daily expenses
-
+Click here to see demo: https://ekpahope.github.io/Expense-Tracker/
 ### Screenshots
 
 [![Home Page](https://s25.postimg.cc/ldito7gwf/create_Entry.png)](https://postimg.cc/image/ko01bugcr/)
